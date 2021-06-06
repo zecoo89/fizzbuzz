@@ -1,0 +1,5 @@
+# fizzbuzz
+
+```
+$ node fizzbuzz.js
+```
